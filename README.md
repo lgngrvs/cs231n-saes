@@ -1,5 +1,5 @@
 # Welcome!
-This is a github repo I made to archive current progress on my CS231N project (as of mid-may 2025). 
+This is a github repo I made to archive current progress on my CS231N project (as of mid-may 2025). This is definitely an in-progress project (hence the errors in the later sections of the ipynb file; haven't had time to diagnose yet)!
 
 - The PDF is our project milestone (containing preliminary results, basically just "evidence that we have a working SAE training loop, even if our SAE currently sucks because we only trained it on 12.5% of the CIFAR-10 dataset lol")
 
